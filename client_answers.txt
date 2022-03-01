@@ -1,0 +1,5 @@
+Alper, blue, Bursa, Memati, dog, Bursa
+Ted, pink, Clevland, Marshall, cat, NY
+Barney, yellow, NY, Ted, pig, NY
+Mete, red, Kayseri, Ezel, duck, Kayseri
+Oguzhan, cyan, Erzurum, Ezio, cat, Erzurum
