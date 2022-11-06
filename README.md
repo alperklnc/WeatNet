@@ -9,5 +9,3 @@ Project Group:
 Alper Kılınç  
 Oğuzhan Taş  
 Metehan Gelgi  
-Fadime Tokmak  
-Görkem Doğdu  
